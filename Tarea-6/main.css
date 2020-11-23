@@ -1,0 +1,13 @@
+#map {
+    height: 50vh;
+    width: 100%;
+    margin-right: 4rem;
+}
+
+#panel {
+    margin: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
